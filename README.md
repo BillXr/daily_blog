@@ -1,15 +1,12 @@
 # Daily Journal
 
-Here is a simple blogging app I created during The App Brewery's "The Complete 2020 Web Development Bootcamp".
+Blogging app created using NodeJs (Express),EJS and Mongodb (mongoose).
 
-## Usage
+In home page users can see some entry posts and then they can compose new one and store them.Project uses MongoDB to store the items.
 
-The app uses MongoDB to store the items.
+Routes created,get and post requests, allow users to navigate through other pages about,contact and compose pages to insert new stories with title and text.
 
-## Contributing
+Find any post by it's id,also provided through this api project.
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Acknowledgment
 
-Once again, thanks to Angela Yu at The App Brewery for designing the app.
