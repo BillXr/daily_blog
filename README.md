@@ -21,7 +21,7 @@ Install depedencies:
 
       npm install
 
-Run code in browser:
+Run code in browser on port 3000:
 
       node app.js
 
